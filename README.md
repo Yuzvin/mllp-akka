@@ -77,5 +77,5 @@ Return: array of "MessageDistribution"
 ```
 GET /api/v1/messages/system/:systemName
 Required query params: "date", "distributedBy" with value "week"
-Return: array of MessageDistribution
+Return: array of "MessageDistribution"
 ```
