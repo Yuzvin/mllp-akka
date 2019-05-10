@@ -1,6 +1,6 @@
 # akka-mllp
 
-##Prerequisites
+## Prerequisites
 Before starting application server launch `postresql` service and create `mllp` database:
 ```
 $ psql postgres -U postgres
