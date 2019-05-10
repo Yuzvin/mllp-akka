@@ -23,7 +23,7 @@ Go to root directory of project and then:
 * While application is running, you can also send your MLLP-formatted message in next template:
 `{MESSAGE_TEXT}|{SYSTEM_NAME}`
 Message should be wrapped into MLLP-specified block bytes.
-##API description
+## API description
 Date pattern: `dd.MM.yyyy HH:mm:ss`
 `Message` data model example:
 ```json
