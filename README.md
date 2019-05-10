@@ -1,5 +1,10 @@
 # akka-mllp
-
+Implementation of support MLLP protocol via Akka-Streams.
+## Technical stack
+* Akka-HTTP 10.1.8
+* Akka-Streams 2.5.22
+* Slick 3.2.0
+* Postgres (tested on 11.2)
 ## Prerequisites
 Before starting application server launch `postresql` service and create `mllp` database:
 ```
