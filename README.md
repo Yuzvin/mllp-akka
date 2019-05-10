@@ -30,7 +30,7 @@ Go to root directory of project and then:
 `{MESSAGE_TEXT}|{SYSTEM_NAME}`
 Message should be wrapped into MLLP-specified block bytes.
 ## API description
-Date pattern: `dd.MM.yyyy HH:mm:ss`
+Date pattern: `dd.MM.yyyy HH:mm:ss`  
 `Message` data model example:
 ```json
 {
