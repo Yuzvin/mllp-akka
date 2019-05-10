@@ -1,6 +1,7 @@
 # akka-mllp
 Implementation of support MLLP protocol via Akka-Streams.
 ## Technical stack
+* Scala 2.12.7
 * Akka-HTTP 10.1.8
 * Akka-Streams 2.5.22
 * Slick 3.2.0
