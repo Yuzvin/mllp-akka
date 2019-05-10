@@ -7,7 +7,7 @@ $ psql postgres -U postgres
 postgres=# CREATE DATABASE mllp;
 postgres=# GRANT ALL PRIVILEGES ON DATABASE mllp TO postgres;
 ```
-##How to run
+## How to run
 There is built-in `sbt` launcher, added to project files. You may also need to change rights for launcher:
 ```
 $ chmod u+x ./sbt
